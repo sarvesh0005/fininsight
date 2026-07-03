@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# SQLite Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Generated Data
+data/raw/*.csv
+data/processed/*.csv
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
